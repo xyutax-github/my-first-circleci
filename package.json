@@ -1,0 +1,6 @@
+{
+  "name": "circleci-test",
+  "scripts": {
+    "test": "echo This is Test-Script",
+  }
+}
